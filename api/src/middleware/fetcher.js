@@ -5,9 +5,7 @@ const { API_KEY } = process.env;
 const { Recipe, Diet } = require("../db");
 
 const params = new URLSearchParams({
-  // apiKey: "c602f40493f4457b8d4663fe779ddc37",
-  apiKey: "cc367d9f5f7844be8910c5fe7169cc9b",
-  // apiKey: API_KEY,
+  apiKey: API_KEY,
   number: 100,
   addRecipeInformation: true,
 });
