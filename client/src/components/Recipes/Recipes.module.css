@@ -1,0 +1,11 @@
+.cards_container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  padding: 10px;
+  gap: 20px;
+}
+.card {
+  padding: 20px;
+
+  text-align: center;
+}
