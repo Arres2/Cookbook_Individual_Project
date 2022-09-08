@@ -5,6 +5,7 @@
 <p align="center">
   <img height="200" src="./cooking.png" />
   <img height="200" src="./Landing.png" />
+  <img height="200" src="./Loading.png" />
   <img height="200" src="./Cards.png" />
   <img height="200" src="./Detail.png" />
   <img height="200" src="./Create.png" />
